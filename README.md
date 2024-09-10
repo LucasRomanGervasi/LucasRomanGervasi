@@ -27,6 +27,5 @@ Soy una persona comprometida y apasionado por lo que hago. Estoy en búsqueda de
 # Contactos
 - 📩 email: gervasilucas22@gmail.com
 - 📲 teléfono: +54 1568020511
-- 👨🏼‍💻 portfolio: https://portfolio-lucasromangervasi.vercel.app
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-roman-gervasi-419463200/)
