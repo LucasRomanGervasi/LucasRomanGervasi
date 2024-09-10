@@ -1,9 +1,7 @@
 ### Hola, 👋 mi nombre es Lucas Gervasi
-Nací un 5 de noviembre del 2001 en Buenos Aires, Argentina.
-En 2020, época de pandemía, decidí dar un giro en mi vida y entrar en el mundo IT. Hoy en día soy un DESARROLLADOR WEB FULL STACK . Tengo experiencia creando apps desde FRONT-END y BACK-END.
-Soy una persona comprometida y apasionado por lo que hago. Estoy en búsqueda de nuevos desafíos, donde pueda desarrollarme como profesional y adquirir nuevos conocimientos.
-
-
+Soy una persona positiva, adaptable, proactiva y responsable en mi trabajo. 
+Me encanta trabajar en equipo, creo que de ser así los resultados SIEMPRE mejoran.
+Un entusiasta del deporte y la tecnología. 
 
 # Skills
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/pabmena)](https://github.com/pabmena) 
